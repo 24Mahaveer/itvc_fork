@@ -1,4 +1,4 @@
-import express from 'express'
+import express from 'exp'
 import jwt from 'jsonwebtoken'
 
 const app=express()
